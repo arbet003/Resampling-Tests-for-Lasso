@@ -7,4 +7,4 @@ For small to moderate datasets (e.g. less than 100,000 predictors), refer to glm
 
 For larger datasets(e.g. more than 100,000 predictors), refer to biglassoPL_functions.R and biglassoPL_tutorial.R.  These files use the bigmemory and biglasso packages to avoid loading the entire dataset into RAM.  Parallel computing is supported.
 
-Any questions can be emailed to Jaron Arbet at: arbet003@umn.edu
+Any questions can be emailed to Jaron Arbet at: jaron.arbet@ucdenver.edu
