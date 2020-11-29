@@ -32,7 +32,7 @@
 # Wu, Tong Tong, et al. "Genome-wide association analysis by lasso penalized logistic regression." Bioinformatics 25.6 (2009): 714-721.
 #
 #
-# QUESTIONS? email Jaron Arbet at: arbet003@umn.edu
+# QUESTIONS? email Jaron Arbet at: jaron.arbet@gmail.com
 ###########################################################################################
 ###########################################################################################
 ###########################################################################################
